@@ -31,7 +31,7 @@ Using bitwise XOR
 }
 
 By using pointer
-
+Test
 {
  t=*x;
  *x=*y;
